@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class RubyController : MonoBehaviour
 {
     public float speed = 3.0f;
     public int maxHealth = 5;

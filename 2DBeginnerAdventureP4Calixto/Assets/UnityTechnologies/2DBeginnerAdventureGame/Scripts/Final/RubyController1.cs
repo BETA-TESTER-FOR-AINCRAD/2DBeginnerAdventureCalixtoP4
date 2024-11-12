@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class RubyController : MonoBehaviour
+public class RubyController1 : MonoBehaviour
 {
     // ========= MOVEMENT =================
     public float speed = 4;
